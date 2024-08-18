@@ -3,7 +3,7 @@
 ---
 
 👨‍💻 Hello! I'm Meetkumar, a passionate tech enthusiast with a knack for diving into thrilling coding projects and tackling innovative challenges.  
-🔭 Currently, I am actively working on two exciting projects: [NexusFlow](https://github.com/MeetkumarChavda/NexusFlow) and [eLitmus](https://github.com/MeetkumarChavda/eLitmus), delving deep into full-stack development and exploring new frontiers in technology.  
+🔭 Currently, I am actively working on two exciting projects: [NexusFlow](https://github.com/MeetkumarChavda/NexusFlow) and [eLitmus](https://github.com/MeetkumarChavda/eLitmus) ,  <BR>  delving deep into full-stack development and exploring new frontiers in technology.  
 🧠 I am always eager to expand my knowledge and welcome any guidance or feedback you might offer. Your insights are invaluable to me!  
 🚀 Let’s connect and collaborate on projects that inspire us and drive us towards new horizons! 🌟
 
