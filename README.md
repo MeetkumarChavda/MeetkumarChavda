@@ -1,13 +1,13 @@
-<h3> 👋 Welcome to my GitHub
-</h3>
-<hr>
-👨‍💻 I'm Meetkumar, a versatile tech enthusiast, ready to embark on exciting coding adventures! <br />
-🔭 Currently immersed in the realm of Full-Stack Development, exploring its depths and pushing boundaries.<br />
-🧠 I seek guidance to deepen my understanding, your questions and feedback are treasures I eagerly await!<br />
-🚀 Let's connect and collaborate on projects that ignite our passions! 🌟<br />
+### 👋 Welcome to My GitHub
 
-<hr>
+---
 
+👨‍💻 Hello! I'm Meetkumar, a passionate tech enthusiast with a knack for diving into thrilling coding projects and tackling innovative challenges.  
+🔭 Currently, I am actively working on two exciting projects: [NexusFlow](https://github.com/MeetkumarChavda/NexusFlow) and [eLitmus](https://github.com/MeetkumarChavda/eLitmus), delving deep into full-stack development and exploring new frontiers in technology.  
+🧠 I am always eager to expand my knowledge and welcome any guidance or feedback you might offer. Your insights are invaluable to me!  
+🚀 Let’s connect and collaborate on projects that inspire us and drive us towards new horizons! 🌟
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meetkumar-chavda) 
