@@ -14,7 +14,7 @@ Greetings! I'm **Meetkumar**, a passionate technologist and full-stack developer
 const meetkumar = {
     role: "Full Stack Developer",
     focus: ["Software Development", "Problem Solving", "Innovation"],
-    currentlyLearning: "Always something new! 🌱",
+    currentlyLearning: "Cloud Computing 🌱",
     lookingTo: "Collaborate on inspiring projects"
 };
 ```
